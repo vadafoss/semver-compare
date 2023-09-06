@@ -1,0 +1,1 @@
+Trying out `golang.org/x/mod/semver` package's `Compare` function.
